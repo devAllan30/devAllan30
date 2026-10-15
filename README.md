@@ -1,40 +1,42 @@
-<p align="center" style="border-radius:100%"><img heigth="auto" width="10%" src="https://media-exp2.licdn.com/dms/image/C4E03AQHmILS0r3A7JQ/profile-displayphoto-shrink_200_200/0/1624832119159?e=1660780800&amp;v=beta&amp;t=YwKGaz_e_nSw-S_jYecZyw9mwJAQ0RHnwJQnXAEViBw"</p>
+# Allan Penser Flores
 
-<div>
-    
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/allan-penser-flores-a1a51a214/"><i>Allan Penser Flores</i></a> 😃️</h1>
-  <h2 align="center">Sou formado em TI e TADS</h2>
-   
-  <h3 align="center">Seja bem-vindo ao meu repositório, vlw mesmo! 😉️</h3>
-  </div>
-  
-  
-  
-  <div align="center">
-    <a href="https://github.com/devAllan30">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devAllan30&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAllan30&theme=dracula&hide_border=false&&layout=compact"/>
-    </a>
-  </div>
-  
-  <div align="center" ><br>
-    <img  alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">     
-    <img align ="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-    
-  </div><br>
-   <div align ="center"><br>
+### Analista de Dados e Automações | Python • SQL • APIs • IA aplicada
 
-   <a href="https://www.instagram.com/allan22_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    
-   <a href="https://www.linkedin.com/in/allan-penser-flores-a1a51a214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="mailto:allanpenser800@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+Sou Analista de Dados e Automações na **Qualitycert**, com 3 anos de experiência na identificação de oportunidades de melhoria, integração de sistemas e desenvolvimento de soluções que transformam processos manuais em fluxos confiáveis, rastreáveis e escaláveis.
 
-   <div align="center">
-    <img src="https://github.com/devAllan30/devAllan30/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
-   </div>
+Atuo desde o entendimento do processo até a entrega: levantamento de requisitos, modelagem dos dados, integração por APIs, automação, testes, documentação e acompanhamento dos resultados.
+
+📍 Belo Horizonte, Minas Gerais, Brasil
+
+## Competências
+
+- **Automação e integrações:** Python, Java, APIs REST, RD Station, Omie, MeetGeek e Google Workspace.
+- **Bancos de dados:** MySQL, PostgreSQL e SQL Server.
+- **Dados e análise:** Excel avançado, DAX e Power BI.
+- **Inteligência Artificial:** uso aplicado à análise, desenvolvimento, documentação e melhoria de processos, com foco em boas práticas e segurança.
+- **Visão de processos:** identificação de gargalos, redução de atividades manuais e integração entre áreas e sistemas.
+
+## Projetos de impacto
+
+### Gerenciador de Eventos
+
+Digitalização do processo de captação de leads em eventos. O cadastro em papel e a transcrição manual foram substituídos por uma experiência via QR Code, com armazenamento estruturado em banco de dados, relatórios, sorteios digitais e melhor suporte para estratégias personalizadas orientadas pelos dados coletados.
+
+### Formulário de Indicação Interna
+
+Automação do fluxo de indicações que antes dependia de Google Forms, planilhas e cadastro manual no CRM. A solução passou a registrar os dados em banco, criar ou atualizar a negociação no RD Station e integrar o agendamento ao Google Calendar, aumentando a rastreabilidade, a confiança nos dados e o controle operacional.
+
+Mais detalhes, preservando a confidencialidade das soluções internas, estão no meu [portfólio de dados e automações](https://github.com/devAllan30/portfolio-dados-automacoes).
+
+## Formação
+
+- **Análise e Desenvolvimento de Sistemas** — Faculdade Pitágoras.
+- **Pós-graduação em Ciência de Dados e Big Data** — em andamento.
+
+## Desenvolvimento profissional
+
+Meu objetivo é continuar evoluindo como Analista de Dados e Automações, ampliando a profundidade técnica, a visão de arquitetura e o impacto das soluções para avançar aos níveis Pleno e Sênior.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/allan-flores-a1a51a214/)
